@@ -1,0 +1,17 @@
+{
+    "name": "be.eloistree.monbeaucube",
+    "version": "1.1.2",
+    "displayName": "Mon beau cube",
+    "description": "Ce package contient un manifique cube.",
+    "unity": "2020.3",
+    "unityRelease": "0f1",
+    "documentationUrl": "https://yourcompany.com/yourpackage/documentation",
+    "changelogUrl": "https://yourcompany.com/yourpackage/changelog",
+    "licensesUrl": "https://en.wikipedia.org/wiki/Beerware",
+    "author": {
+      "name": "Eloi Stree",
+      "email": "eloistree@gmail.com",
+      "url": "https://github.com/EloiStree"
+    }
+    
+  }
